@@ -1,9 +1,8 @@
 # rap-names-two
 
-# ap-names-two
-An api to find information about your favourite rappers.
+An api to find information about your favorite rappers.
 
-**Link to project:** https://github.com/leonnoel/rap-names-two
+**Link to project:** https://rapper-api-100devs-class39.herokuapp.com/
 
 ![alt tag](https://github.com/BrettCrafton/rap-names-two/blob/main/api.png)
 
@@ -21,8 +20,6 @@ command line:
 
 *npm install express --save*
 
-
-## Dependencies
 
 
 ## Optimizations
