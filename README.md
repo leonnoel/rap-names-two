@@ -18,7 +18,9 @@ Utilized a read mechanism from the CRUD (Create, Read, Update, Delete) framework
 ## How To Use/Modify:
 Run these in your terminal/command prompt before using the app:
 npm init
+<br>
 npm install express --save
+<br>
 npm install cors
 
 ## Optimizations
