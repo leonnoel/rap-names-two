@@ -1,5 +1,5 @@
 ###################
-# What is rap-names-api
+# What is Rap-names-api
 ###################
 
 rap-names-api is an Application Programming Interface (API) - a toolkit - for people
@@ -17,6 +17,7 @@ Utilized a read mechanism from the CRUD (Create, Read, Update, Delete) framework
 
 ## How To Use/Modify:
 Run these in your terminal/command prompt before using the app:
+<br>
 npm init
 <br>
 npm install express --save
