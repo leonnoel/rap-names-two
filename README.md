@@ -23,7 +23,8 @@ npm init
 
 ## End points 
 
-https://rapper-api-100devs-class39.herokuapp.com/api/<rapper-name>
+https://rapper-api-100devs-class39.herokuapp.com/api/rapper-name
+
 
 
 ## Lessons Learned:
