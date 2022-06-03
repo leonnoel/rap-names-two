@@ -7,7 +7,7 @@ who want to retrieve rapper information back fast.
 
 **Link to project:** https://rap-names-api-review.herokuapp.com/
 
-<img src="https://github.com/mani-saeidi/rap-names-api-review/blob/main/API%20Request%20Example.png?raw=true" alt="API request for rapper name retrieval app" width=500px>
+<img src="https://github.com/mani-saeidi/rap-names-api-review/blob/main/API%20Request%20Example.png?raw=true" alt="API request for rapper name retrieval app" width=600px>
 
 ## How It's Made:
 
