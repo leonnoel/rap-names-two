@@ -1,8 +1,8 @@
 ###################
-# What is rap-names-api-review
+# What is rap-names-api
 ###################
 
-rap-names-api-review is an Application Programming Interface (API) - a toolkit - for people
+rap-names-api is an Application Programming Interface (API) - a toolkit - for people
 who want to retrieve rapper information back fast.
 
 **Link to project:** https://rap-names-api-review.herokuapp.com/
@@ -14,6 +14,12 @@ who want to retrieve rapper information back fast.
 **Tech used:** HTML, JavaScript, Express, JSON, Node.js, npm
 
 Utilized a read mechanism from the CRUD (Create, Read, Update, Delete) framework using Express & Javascript and listened for requests on port 8000 of a localhost.
+
+## How To Use/Modify:
+Run these in your terminal/command prompt before using the app:
+npm init
+npm install express --save
+npm install cors
 
 ## Optimizations
 *(optional)*
