@@ -2,7 +2,8 @@
 
 An api to find bio information about your favourite rappers.
 
-**Link to project:** https://rapper-api-100devs-class39.herokuapp.com/
+**Link to project:** API Documentation: [https://rapper-api-100devs-class39.herokuapp.com/](https://rapper-api-100devs-class39.herokuapp.com/)
+
 
 ## How It's Made:
 
@@ -25,6 +26,7 @@ npm init
 
 https://rapper-api-100devs-class39.herokuapp.com/api/rapper-name
 
+Replace rapper-name with rapper name of your choice. 
 
 
 ## Lessons Learned:
