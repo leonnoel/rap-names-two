@@ -22,7 +22,6 @@ npm install express --save
 npm install cors
 
 ## Optimizations
-*(optional)*
 
 Rather than just printing the rapper name object filled with rapper objects in the console, we actually allowed the response to respond with the rapper name requested and all their information.
 
